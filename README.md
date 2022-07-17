@@ -1,2 +1,2 @@
 # Responsive-Web-Design
-www.freecodecamp.org
+freecodecamp.org
